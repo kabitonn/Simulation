@@ -1,0 +1,16 @@
+{
+    "stopped_tasks": 0, 
+    "buffers": 1195464, 
+    "zombie_tasks": 1, 
+    "free_mem": 2485152, 
+    "ni_cpu": 0.5, 
+    "running_tasks": 1, 
+    "total_mem": 4028884, 
+    "used_mem": 348268, 
+    "user_cpu": 4.6, 
+    "total_tasks": 294, 
+    "idle_cpu": 88.0, 
+    "sys_cpu": 6.4, 
+    "wait_cpu": 0.0, 
+    "sleeping_tasks": 292
+}
